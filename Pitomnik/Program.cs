@@ -20,7 +20,7 @@ while (true)
             string? name = (string)Ask("Введите имя животного");
             string? dob = (string)Ask("Введите дату рождения животного");
             string? kind = null;
-            switch(Ask("""
+            switch (Ask("""
 
                 Животное:
                     1. Кошка
@@ -55,14 +55,15 @@ while (true)
             string? commands = (string)Ask("Какие команды умеет исполнять");
             if (commands is null || name is null || dob is null || kind is null)
                 Console.WriteLine("Неверно введены данные. ");
-            else { 
+            else
+            {
                 Pitomnik.App.AddAnimal(name, dob, kind, commands);
                 Console.WriteLine($"{name} добавлен в базу! ");
             }
             break;
         case 2:
             int i = 1;
-            foreach(AbstractAnimal animal in App.animals)
+            foreach (AbstractAnimal animal in App.animals)
             {
                 Console.WriteLine($"{i}: " + animal);
                 i++;
@@ -72,7 +73,7 @@ while (true)
             Console.Write("Введите номер животного п/п (-1, 2 для просмотра списка): ");
             _ = int.TryParse(Console.ReadLine(), out choice);
             if (choice == -1 || !App.AnimalCounter.InRange(choice)) break;
-            var current_animal = App.animals[choice-1];
+            var current_animal = App.animals[choice - 1];
             Console.Write($"Обучаем животное \"{current_animal.Name}\". Новые команды через запятую: ");
             current_animal.Train(Console.ReadLine() ?? "");
             Console.Write($"Отлично! \"{current_animal.Name}\" теперь умеет: {current_animal.Commands}");
@@ -86,7 +87,7 @@ while (true)
     }
 }
 
-static object Ask(string question, bool isInt=false)
+static object Ask(string question, bool isInt = false)
 {
     Console.Write("\n" + question + ": ");
     string? str_out = Console.ReadLine();

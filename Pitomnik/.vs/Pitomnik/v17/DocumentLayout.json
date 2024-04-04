@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|d:\\work\\finalkr\\pitomnik\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|solutionrelative:pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|d:\\work\\finalkr\\pitomnik\\packanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|solutionrelative:packanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|d:\\work\\finalkr\\pitomnik\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|solutionrelative:counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|d:\\work\\finalkr\\pitomnik\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 307,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\Animal.cs",
-              "RelativeDocumentMoniker": "Animal.cs",
-              "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\Animal.cs",
-              "RelativeToolTip": "Animal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T16:28:52.796Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -45,22 +44,74 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T16:27:23.679Z",
+              "WhenOpened": "2024-04-04T16:34:53.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\Pet.cs",
+              "RelativeDocumentMoniker": "Pet.cs",
+              "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\Pet.cs",
+              "RelativeToolTip": "Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:34:51.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PackAnimal.cs",
+              "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\PackAnimal.cs",
+              "RelativeDocumentMoniker": "PackAnimal.cs",
+              "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\PackAnimal.cs",
+              "RelativeToolTip": "PackAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:34:47.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\Counter.cs",
+              "RelativeDocumentMoniker": "Counter.cs",
+              "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\Counter.cs",
+              "RelativeToolTip": "Counter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:34:43.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.cs",
               "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\App.cs",
               "RelativeDocumentMoniker": "App.cs",
               "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\App.cs",
               "RelativeToolTip": "App.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T16:27:22.176Z",
+              "WhenOpened": "2024-04-04T16:34:39.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:34:34.871Z",
               "EditorCaption": ""
             }
           ]

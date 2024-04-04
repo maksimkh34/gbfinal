@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Pitomnik
+﻿namespace Pitomnik
 {
     internal class PackAnimal(string name, string dateofbirth, string animalkind, string commands) : AbstractAnimal(name, dateofbirth, animalkind, commands)
     {
