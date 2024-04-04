@@ -1,0 +1,15 @@
+D:\Work\FinalKR\Pitomnik\bin\Debug\net8.0\Pitomnik.exe
+D:\Work\FinalKR\Pitomnik\bin\Debug\net8.0\Pitomnik.deps.json
+D:\Work\FinalKR\Pitomnik\bin\Debug\net8.0\Pitomnik.runtimeconfig.json
+D:\Work\FinalKR\Pitomnik\bin\Debug\net8.0\Pitomnik.dll
+D:\Work\FinalKR\Pitomnik\bin\Debug\net8.0\Pitomnik.pdb
+D:\Work\FinalKR\Pitomnik\obj\Debug\net8.0\Pitomnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\FinalKR\Pitomnik\obj\Debug\net8.0\Pitomnik.AssemblyInfoInputs.cache
+D:\Work\FinalKR\Pitomnik\obj\Debug\net8.0\Pitomnik.AssemblyInfo.cs
+D:\Work\FinalKR\Pitomnik\obj\Debug\net8.0\Pitomnik.csproj.CoreCompileInputs.cache
+D:\Work\FinalKR\Pitomnik\obj\Debug\net8.0\Pitomnik.sourcelink.json
+D:\Work\FinalKR\Pitomnik\obj\Debug\net8.0\Pitomnik.dll
+D:\Work\FinalKR\Pitomnik\obj\Debug\net8.0\refint\Pitomnik.dll
+D:\Work\FinalKR\Pitomnik\obj\Debug\net8.0\Pitomnik.pdb
+D:\Work\FinalKR\Pitomnik\obj\Debug\net8.0\Pitomnik.genruntimeconfig.cache
+D:\Work\FinalKR\Pitomnik\obj\Debug\net8.0\ref\Pitomnik.dll

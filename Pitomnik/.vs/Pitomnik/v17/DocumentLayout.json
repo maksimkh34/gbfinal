@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\FinalKR\\Pitomnik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|d:\\work\\finalkr\\pitomnik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|d:\\work\\finalkr\\pitomnik\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|d:\\work\\finalkr\\pitomnik\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|d:\\work\\finalkr\\pitomnik\\packanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|solutionrelative:packanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|d:\\work\\finalkr\\pitomnik\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46D1FA7-2F76-49FD-84AA-7642BD004DEB}|Pitomnik.csproj|solutionrelative:pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\App.cs",
+              "RelativeDocumentMoniker": "App.cs",
+              "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\App.cs",
+              "RelativeToolTip": "App.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:14:56.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PackAnimal.cs",
+              "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\PackAnimal.cs",
+              "RelativeDocumentMoniker": "PackAnimal.cs",
+              "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\PackAnimal.cs",
+              "RelativeToolTip": "PackAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:11:09.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\Pet.cs",
+              "RelativeDocumentMoniker": "Pet.cs",
+              "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\Pet.cs",
+              "RelativeToolTip": "Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:08:26.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:59:48.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\FinalKR\\Pitomnik\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Work\\FinalKR\\Pitomnik\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:58:39.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
