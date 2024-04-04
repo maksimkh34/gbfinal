@@ -6,15 +6,19 @@ using System.Threading.Tasks;
 
 namespace Pitomnik
 {
-    internal abstract class AbstractAnimal(string name, string dateofbirth, string animalkind)
+    internal abstract class AbstractAnimal(string name, string dateofbirth, string animalkind, string commands)
     {
-        internal string? Name { get; set; } = name;
-        internal string? DateOfBirth { get; set; } = dateofbirth;
-        internal readonly string? AnimalKind = animalkind;
+        internal string Name { get; set; } = name;
+        internal string DateOfBirth { get; set; } = dateofbirth;
+        internal readonly string AnimalKind = animalkind;
+        internal string Commands = commands;
 
-        public override string ToString()
+        public override string ToString() => $"{AnimalKind} {Name}, дата рожения: {DateOfBirth}";
+
+        internal void Train(string new_commands)
         {
-            return $"{AnimalKind} {Name}, дата рожения: {DateOfBirth}";
+            if (Commands == "" || new_commands == "") Commands += new_commands;
+            else Commands += ", " + new_commands;
         }
     }
 }

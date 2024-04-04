@@ -1,19 +1,22 @@
 ﻿// Console 
-while(true)
+using Pitomnik;
+
+while (true)
 {
     Console.WriteLine("""
 
         Меню:
             1. Добавить животное
-            2. Редактировать информацию 
-            3. Выход
+            2. Просмотреть список
+            3. Обучить животное
+            4. Выход
 
      """);
     Console.Write("Выбор: ");
     _ = int.TryParse(Console.ReadLine(), out int choice);
     switch (choice)
     {
-            case 1:
+        case 1:
             string? name = (string)Ask("Введите имя животного");
             string? dob = (string)Ask("Введите дату рождения животного");
             string? kind = null;
@@ -58,8 +61,23 @@ while(true)
             }
             break;
         case 2:
-            return;
+            int i = 1;
+            foreach(AbstractAnimal animal in App.animals)
+            {
+                Console.WriteLine($"{i}: " + animal);
+                i++;
+            }
+            break;
         case 3:
+            Console.Write("Введите номер животного п/п (-1, 2 для просмотра списка): ");
+            _ = int.TryParse(Console.ReadLine(), out choice);
+            if (choice == -1 || !App.AnimalCounter.InRange(choice)) break;
+            var current_animal = App.animals[choice-1];
+            Console.Write($"Обучаем животное \"{current_animal.Name}\". Новые команды через запятую: ");
+            current_animal.Train(Console.ReadLine() ?? "");
+            Console.Write($"Отлично! \"{current_animal.Name}\" теперь умеет: {current_animal.Commands}");
+            break;
+        case 4:
             Console.WriteLine("OK! ");
             return;
         default:
